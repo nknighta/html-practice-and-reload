@@ -1,0 +1,94 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    padding: 10px;
+    display: flex;
+}
+
+header #left{
+    display: flex;
+    padding: 5px;
+}
+
+header #right{
+    display: flex;
+    margin-left: auto;
+    margin-right: 0;
+}
+
+header #right h1{
+    font-size: 30px;
+    padding: 15px;
+}
+
+header #right button{
+    font-size: 30px;
+    margin: 4px;
+    padding: 10px 40px 10px 15px;
+    background-color: #ff2200;
+}
+
+header h1{
+    font-size: 50px;
+}
+
+body{
+    background-color: #000021;
+    color: #ff2200;
+}
+
+body #picture {
+    height: 800px;
+    background-color: #000051;
+}
+
+body #picture h1 {
+    padding:  230px 100px;
+}
+
+body ul {
+    background-color: #ff2200;
+    color: #000021;
+    padding: 40px 30px 50px 30px;
+}
+
+body ul h1{
+    font-size: 36px;
+}
+
+body ul li {
+    list-style: none;
+    padding: 10px;
+    margin: 10px;
+    font-size: 29px;
+}
+
+body ul li ul{
+    background-color: #ff2200;
+    color: #000021;
+    padding: 10px 10px 30px 10px;
+}
+
+body ul li ul a{
+    text-decoration: none;
+    color: #000021;
+}
+
+body #under {
+    font-size: 30px;
+    padding: 50px;
+}
+
+body #under div {
+    font-size: 30px;
+    margin: 20px;
+    padding: 10px;
+}
+
+body #name p{
+    text-align: center;
+    margin-bottom: 40px;
+}

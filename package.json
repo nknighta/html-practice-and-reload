@@ -1,0 +1,24 @@
+{
+  "name": "html-practice-and-reload",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "reload -b"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NknightA/html-practice-and-reload.git"
+  },
+  "keywords": [],
+  "author": "nknight_amamiya <n.knight.pc0627@gmail.com> (https://npm.pkg.github.com/nknight_amamiya)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NknightA/html-practice-and-reload/issues"
+  },
+  "homepage": "https://github.com/NknightA/html-practice-and-reload#readme",
+  "dependencies": {
+    "reload": "^3.2.1",
+    "sass": "^1.58.0"
+  }
+}
